@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Joshua Chase",
+    "description":"Junior Full Stack Developer",
+    "image":"profile.jpg",
+    "bio":"My name is Joshua. I am a Master’s student in Software Engineering at the University of Western Australia, with a Bachelor's degree in Computer Science from Heilongjiang University of Science and Technology. I possess a strong foundation in web development technologies such as HTML, CSS, JavaScript, and React, as well as programming languages including Python, C, Java, and R for data analysis. With hands-on experience in GitHub and basic proficiency in Flask. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "joshuachase@outlook.com.au",
+    "phone": "0476 765 811",
+    "github":"https://github.com/joshuachaseau",
+    "project":"https://github.com/joshuachaseau",
+    "address":{
+      "line1":"Address: 555 Wellington St",
+      "line2":"City: Perth",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "Joshua Chase",
+        "url": "hhttps://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q"
+      },
+      "chinese": {
+        "name": "Joshua Chase",
+        "url":"https://www.youtube.com/@joshuachaseau"
+      }
+    },
+    "website": "https://joshuachaseau.github.io/PersonalCV/",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshua-chase-au/",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/joshuachaseau",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"twitter",
+        "url":"https://x.com/joshuachaseau",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Western Australia",
+        "degree":"Master of Professional Engineering (Software Engineering)",
+        "graduated":"2024 - 2026",
+        "description":""
+      },
+      {
+        "school":"Heilongjiang University of Science and Technology",
+        "degree":"Bachelor of Computer Scinece",
+        "graduated":"2020 - 2024",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Student Union of CSSE, HUST",
+        "title":"Chairman",
+        "years":"2022-2023",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"45%"
+      },
+      {
+        "name":"Frontend Development (React)",
+        "level":"50%"
+      },
+      {
+        "name":"Computational Data Analysis (R)",
+        "level":"60%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"63%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project",
+        "description": "Computational Data Analysis Project",
+        "category": "Project",
+        "image":"04.jpg",
+        "url":"https://joshuachaseau.github.io/Health-Causes-Data-Analysis/"
+      },
+      {
+        "title":"Project",
+        "description": "Internet of Things Project",
+        "category": "Project",
+        "image":"00.png",
+        "url":""
+      }
+    ]
+  }
+}
